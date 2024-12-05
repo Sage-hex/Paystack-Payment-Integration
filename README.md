@@ -22,7 +22,7 @@ A simple React-based donation form that integrates **Paystack** for processing p
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/paystack-donation-form.git
+   https://github.com/Sage-hex/Paystack-Payment-Integration.git
    cd paystack-donation-form
 
 
