@@ -1,6 +1,6 @@
 # Paystack Donation Form
 
-![Project Preview](assets/payment-preview.png)
+![Project Preview](./assets/payment-preview.png)
 
 A simple React-based donation form that integrates **Paystack** for processing payments. This project allows users to input their details and donation amount, then securely make payments via Paystack.
 
